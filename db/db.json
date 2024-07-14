@@ -1,6 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text",
+        "id": "0"
+    },
+    {
+        "title": "Coolest Note ever!",
+        "text": "I can't even tell you how cool this note is. It is the coolest of the coolest note. You can't even imagine a cooler note than this one.",
+        "id": "1cbebc75-e34a-4420-8ffa-f45c56d8ee19"
+    },
+    {
+        "title": "Another neat note",
+        "text": "here we go",
+        "id": "92e042b2-3494-4290-a473-f4d6a1e1cf87"
     }
 ]
